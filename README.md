@@ -30,11 +30,12 @@ TheGoldEconomy is a powerful economy plugin that allows servers to manage their 
 - TownyAPI Integration!
 - Optional removing of Gold Drops by Mobs to reduce inflation.
 - Multiple Language support!
+- Minecraft 1.21.11 support (Paper/Purpur/Folia compatible).
 
 ## How to Install
 
 1. **Install Vault**: Ensure you have [Vault](https://www.spigotmc.org/resources/vault.34315/) installed on your server. Vault is compatible with Minecraft versions newer than 1.17.
-2. **Download TheGoldEconomy**: Get the latest version of TheGoldEconomy [here](https://modrinth.com/plugin/thegoldeconomy).
+2. **Download TheGoldEconomy**: Get the latest version from [GitHub Releases](https://github.com/confusedalex/GoldEconomy/releases).
 3. **Place the Plugin**: Move the downloaded `.jar` file into your server's `plugins` folder.
 4. **Enjoy playing!**
 
