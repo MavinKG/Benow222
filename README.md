@@ -30,6 +30,7 @@ TheGoldEconomy is a powerful economy plugin that allows servers to manage their 
 - TownyAPI Integration!
 - Optional removing of Gold Drops by Mobs to reduce inflation.
 - Multiple Language support!
+- Minecraft 1.21.11 support (Paper/Purpur/Folia compatible).
 
 ## How to Install
 

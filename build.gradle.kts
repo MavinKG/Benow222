@@ -152,6 +152,6 @@ modrinth {
         "1.21.10",
         "1.21.11"
     )
-    loaders.addAll("spigot", "paper", "purpur")
+    loaders.addAll("spigot", "paper", "purpur", "folia")
     syncBodyFrom = rootProject.file("README.md").readText()
 }
